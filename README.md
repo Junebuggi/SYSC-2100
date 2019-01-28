@@ -1,2 +1,8 @@
 # SYSC-2100
-Algorithms and Data Structures
+Hello!
+
+This is a place to store assignments and labs from my Algorithms and Data Structures course (in Java)
+
+Course duration: Winter 2019
+
+
